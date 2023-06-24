@@ -24,10 +24,11 @@
     <Compile Include="Face_Rec_atten.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="attendence_folder\" />
     <Folder Include="sample_images\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="attendence.csv" />
+    <Content Include="attendence_folder\attendance_2023-06-24.csv" />
     <Content Include="sample_images\jobs.jpg" />
     <Content Include="sample_images\Pankaj.jpg" />
     <Content Include="sample_images\sadmona.jpg" />
